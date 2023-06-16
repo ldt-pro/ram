@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
