@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Fixed RTDETR GFLOPs bug (#7309)
