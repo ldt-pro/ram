@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
