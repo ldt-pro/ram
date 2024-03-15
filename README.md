@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
